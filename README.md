@@ -11,7 +11,7 @@
 ![AI Infrastructure](https://img.shields.io/badge/AI%20Infra-Inference%20%26%20Systems-0EA5E9?style=flat-square)
 ![Learning](https://img.shields.io/badge/Status-Always%20Learning-10B981?style=flat-square)
 
-[技术笔记 ↗](https://1iyouzhen.github.io) · [公开仓库 ↗](https://github.com/1iyouzhen?tab=repositories)
+[Blog ↗](https://1iyouzhen.github.io) · [仓库 ↗](https://github.com/1iyouzhen/1iyouzhen.github.io)
 
 </div>
 
