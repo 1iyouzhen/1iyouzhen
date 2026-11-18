@@ -21,15 +21,6 @@
 
 - **LLM 原理与推理**：理解模型结构、训练方法与推理机制，通过论文阅读和代码实验加深认识。
 - **AI Infra 与高效推理**：关注 LLM serving、KV Cache、请求调度与并行计算，探索性能与资源利用之间的取舍。
-- **Agent 与 RAG**：探索检索增强、工具调用和智能体协作，让模型更好地解决实际问题。
-
-### 🧩 项目与记录
-
-| 入口 | 内容 |
-| :--- | :--- |
-| [📝 Notes](https://1iyouzhen.github.io) | LLM 与 AI Infrastructure 相关学习笔记 |
-| [🔬 SciAgent](https://github.com/1iyouzhen/SciAgent) | 面向科学文献问答的多智能体探索，关注证据与可追溯性 |
-| [📊 risk_agent](https://github.com/1iyouzhen/risk_agent) | 结合 AI、知识图谱与 RAG 的金融风险评估实践 |
 
 ### 🌱 学习方式
 
